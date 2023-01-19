@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This repository contains some of my latest coding projects
 <!--
 **naatcaceres/naatcaceres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
